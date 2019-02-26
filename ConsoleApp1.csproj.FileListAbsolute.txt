@@ -1,0 +1,17 @@
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NuGet.Core.dll
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.dll
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.dll
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.pdb
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.xml
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.xml
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jyu3\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
